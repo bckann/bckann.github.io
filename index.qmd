@@ -1,0 +1,27 @@
+﻿---
+title: ""
+page-layout: full
+---
+
+:::  {.columns}
+
+::: {.column width="30%"}
+![](profile.jpg){.profile-photo}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+
+## Anne Beck
+
+I am an Economist at the **World Bank's Development Economics Research Group**. My research sits at the intersection of **trade, sustainability, and finance**. Drawing on micro data, I study how climate and trade policies reshape global value chains and local labor markets, and how the financial sector shapes real outcomes. Recent projects include the propagation of decarbonization strategies in global value chains, the employment and political effects of tariff changes, financial intermediation and spatial disparities, and the opportunities and challenges of a circular economy transition.  I hold a Ph.D. in Economics from the University of Zurich, Switzerland.
+
+---
+
+:::
+
+::: {.footer-disclaimer}
+No one else has reviewed or approved the content of this website. The views expressed on this page are mine alone and do not represent or reflect the opinions of any organization with which I am affiliated.
+:::

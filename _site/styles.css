@@ -1,0 +1,35 @@
+﻿/* Profile photo */
+.profile-photo {
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  margin-top: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Navbar styling */
+.navbar {
+  border-bottom: 2px solid #dee2e6;
+}
+
+/* Main content padding */
+.page-layout-full .column-page {
+  padding-top: 2rem;
+}
+
+/* Footer disclaimer */
+.footer-disclaimer {
+  font-size: 0.78rem;
+  color: #6c757d;
+  border-top: 1px solid #dee2e6;
+  padding-top: 1rem;
+  margin-top: 3rem;
+  font-style: italic;
+}
+
+/* Research page paper entries */
+.page-layout-article p {
+  margin-bottom: 0.3rem;
+}

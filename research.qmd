@@ -1,0 +1,79 @@
+﻿---
+title: "Research"
+page-layout: article
+---
+
+## Working Papers
+
+---
+
+**Deep and Shallow Decarbonization in Supply Chains**  
+*with Alvaro Pedraza*
+
+Using global supplier-customer links matched to firm-level emissions and project-level data from voluntary carbon registries, we show that downstream climate pressure propagates upstream, eliciting both real and symbolic responses, but in systematically different ways across suppliers.
+[PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099651102092611811)
+
+---
+
+**Environmental Performance and Stock Market Valuations: Global Evidence on the Pricing of Polluters**
+
+Approximating a firm’s greenness with emission levels and intensities in a global sample of firms from 2006 to 2022, this paper analyzes whether differences in environmental performance are reflected in relative stock market valuations.
+[PDF](https://www.urpp-equality.uzh.ch/dam/jcr:5f6d2e55-7aac-4e2d-a588-fa80967c493d/76_Beck_Env-performance-stock-valuation.pdf)
+
+---
+
+**Help for the Heartland? The Economic and Political Effects of the Trump Tariffs in US Local Labor Markets**
+*with David Autor, David Dorn and Gordon Hanson*
+
+---
+
+## Published Articles
+
+---
+
+**The financial origins of regional inequality**  
+*with Sebastian Doerr*  
+***Journal of Money, Credit and Banking***, accepted.
+
+Using a quasi-natural experiment on bank branching deregulation, we show that removing financial restrictions disproportionately benefited urban relative to rural regions — primarily by boosting labor demand, employment, and wages in cities.  
+
+---
+
+**Understanding firm networks in global agricultural value chains**  
+*with Sunghum Lim and Daria Taglioni*  
+***Food Policy***, Volume 127, August 2024, 102689.
+
+Tracking roughly 17,500 agribusiness companies and over 150,000 supplier-customer connections, this paper examines the evolution of global value chains in the agrifood sector from 2014 to 2022. Large corporations have strengthened their network centrality through geographic diversification and concentrated supply strategies, with greater connectivity associated with higher resilience.  
+[Published Version](https://www.sciencedirect.com/science/article/pii/S0306919224001003)
+
+---
+
+## Work in Progress
+
+---
+
+- Deregulation and Credit, revisited *(with Toni Ahnert and Sebastian Doerr)*
+- Navigating Uncertainty: How Trade Policy Uncertainty Shapes Firm Exporting, Importing, and Two Way Trade *(with Ana Fernandes)*
+
+---
+
+## Selected Policy Work
+
+---
+
+**Türkiye’s Circular Economy Transition in the EU’s Global Value Chain Ecosystem**  
+*with Daria Taglioni*   
+[Published Version](https://www.worldbank.org/en/country/turkey/publication/turkiye-s-circular-economy-transition-in-the-eu-s-global-value-chain-ecosystem)
+
+---
+
+**Clean Tech Value Chains - Using Trade Data to Guide a Complex Policy Space**  
+*with Gianluca Santori and Daria Taglioni*  
+***EU Regular Economic Report 10***, Part 2, 2024.  
+[Published Version](https://documents1.worldbank.org/curated/en/099121724035031824/pdf/P500459198b0dbcb104ac147341b72518b22221d5b0e.pdf)
+
+---
+
+::: {.footer-disclaimer}
+No one else has reviewed or approved the content of this website. The views expressed on this page are mine alone and do not represent or reflect the opinions of any organization with which I am affiliated.
+:::
